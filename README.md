@@ -1,5 +1,7 @@
 # clothing-store
 
+## Preview https://test-shop-gules.vercel.app/
+
 ## Build Setup
 
 ```bash
